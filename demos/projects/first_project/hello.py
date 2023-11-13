@@ -1,4 +1,5 @@
-import requests
+import requwast
+
 # import sqlalchemy
 
 resp = requests.get('https://weather.talkpython.fm/api/weather?city=portland&state=OR&country=US&units=imperial')
